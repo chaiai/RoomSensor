@@ -1,6 +1,8 @@
 # RoomSensor
 Temperature and humidity sensor for bedroom.
 
+Inspired from: https://www.tomshardware.com/how-to/raspberry-pi-pico-weather-station
+
 # Raspberry Pi Pico Pinouts
 
 ## Pico Power
